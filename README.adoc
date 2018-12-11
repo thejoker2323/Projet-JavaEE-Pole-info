@@ -3,16 +3,16 @@ Nous nous repartissons les fonctionnalitées comme suit  :
 
 
 Sprint 1 :
--TAGZIRIA Sara : AutoDB (1 Point)
--Ouaaz Chahine : Basics
--Anas : Prefs
--Lahsen Jannani : basicServlets 
+*TAGZIRIA Sara : AutoDB (1 Point)
+*Ouaaz Chahine : Basics
+*Anas : Prefs
+*Lahsen Jannani : basicServlets 
 
 Sprint 2: 
--TAGZIRIA Sara : BasicClient (1 Point)
--Ouaaz Chahine : SetDB
--Anas :
--Lahsen  Jannani : LinkServlets, Repr
+*TAGZIRIA Sara : BasicClient (1 Point)
+*Ouaaz Chahine : SetDB
+*Anas :
+*Lahsen  Jannani : LinkServlets, Repr
 
 
 Sprint 3 :
